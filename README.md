@@ -23,4 +23,4 @@
 [![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=3b5998)](https://www.facebook.com/profile.php?id=100046189604989)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/the._.vilmort/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaliizadorozhnyi&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)
