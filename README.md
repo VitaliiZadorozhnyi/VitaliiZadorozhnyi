@@ -13,8 +13,8 @@
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
 ### Languages
-![English](https://img.shields.io/badge/English--b1-090909?style=for-the-badge)
-![English](https://img.shields.io/badge/Ukrainian--native-090909?style=for-the-badge)
-![English](https://img.shields.io/badge/Russian--fluent-090909?style=for-the-badge)
+![English](https://img.shields.io/badge/English—b1-090909?style=for-the-badge)
+![English](https://img.shields.io/badge/Ukrainian—native-090909?style=for-the-badge)
+![English](https://img.shields.io/badge/Russian—fluent-090909?style=for-the-badge)
 
 ### Follow Me
